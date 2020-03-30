@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Top Restaurants Guide</string>
+
+
+    <string-array name="restaurant_name">
+        <item>Bazaari</item>
+        <item>HotPotCity</item>
+        <item>Ippudo</item>
+        <item>KittyHawk</item>
+        <item>Vapiano</item>
+        <item>Fujiyama</item>
+        <item>SpiceWorld</item>
+        <item>Gami Chicken</item>
+        <item>Donpepper</item>
+        <item>Holy Heffa</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Marrickville</item>
+        <item>Bankstown</item>
+        <item>Town Hall</item>
+        <item>Circular Quay</item>
+        <item>Wynyard</item>
+        <item>Canterbury</item>
+        <item>Haymarket</item>
+        <item>Darling Harbour</item>
+        <item>Surry Hills</item>
+        <item>Cabramatta</item>
+
+    </string-array>
+
+    <string-array name="cuisine">
+        <item>Mediterranean</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Chinese</item>
+        <item>Korean</item>
+        <item>Italian</item>
+        <item>Burger</item>
+    </string-array>
+
+
+    <string-array name="rating">
+        <item>4.7/5</item>
+        <item>4.8/5</item>
+        <item>4.1/5</item>
+        <item>4.2/5</item>
+        <item>4.8/5</item>
+        <item>4.7/5</item>
+        <item>4.1/5</item>
+        <item>3.5/5</item>
+        <item>4.5/5</item>
+        <item>4/5</item>
+    </string-array>
+</resources>
